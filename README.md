@@ -1,2 +1,7 @@
 # Abu--Yousaf--Micro-OS-
-Our Website
+CDNM VS20
+
+#Information
+Version: 0.1
+License: MIT
+Name: Unfinaliz
